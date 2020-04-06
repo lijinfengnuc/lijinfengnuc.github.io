@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>简单</title>
+  
+  <subtitle>be simple</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://lijinfengnuc.github.io/"/>
+  <updated>2020-04-06T12:13:44.599Z</updated>
+  <id>https://lijinfengnuc.github.io/</id>
+  
+  <author>
+    <name>Jeff Li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>首篇</title>
+    <link href="https://lijinfengnuc.github.io/post/112b4f27.html"/>
+    <id>https://lijinfengnuc.github.io/post/112b4f27.html</id>
+    <published>2020-04-06T12:03:26.000Z</published>
+    <updated>2020-04-06T12:13:44.599Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;emsp;&amp;emsp;许久前已有搭建博客网站的想法，由于拖延症致使事情多次搁浅，今年清明节因为新冠疫情影响只能呆在家里，遂集中精力完成了此事，计划在这里记录自己在技术上的一些见解，当然也会有一些生活中零碎的想法。&lt;/p&gt;
+&lt;p&gt;&amp;emsp;&amp;emsp;希望自己能持续在这里
+        
+      
+    
+    </summary>
+    
+    
+      <category term="生活随笔" scheme="https://lijinfengnuc.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="个人想法" scheme="https://lijinfengnuc.github.io/tags/%E4%B8%AA%E4%BA%BA%E6%83%B3%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>
